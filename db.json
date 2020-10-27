@@ -20,28 +20,6 @@
                         }
                     ]
                 },
-                {
-                    "babTitle": "Bab 2",
-                    "materis": [
-                        {
-                            "materiTitle": "Materi 1.0 - Belajar Programming",
-                            "subMateris": [
-                                {
-                                    "subMateriTitle": "1.1 - Membuat Database",
-                                    "idMateri": 1
-                                },
-                                {
-                                    "subMateriTitle": "1.2 - Membuat Database",
-                                    "idMateri": 2
-                                },
-                                {
-                                    "subMateriTitle": "1.3 - Membuat Database",
-                                    "idMateri": 3
-                                }
-                            ]
-                        }
-                    ]
-                }
             ]
         },
         {
